@@ -78,7 +78,6 @@ class _GalleryHomeState extends State<GalleryHome>
               return Future<bool>.value(true);
             },
             //TODO update
-            child: BackDrop(),
           )),
     );
 
