@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'material/bottom_app_bar_demo.dart';
+import 'material/bottom_navigation_demo.dart';
 
 void main() => runApp(MyApp());
 
@@ -24,6 +25,7 @@ class MyApp extends StatelessWidget {
       home: MyHomePage(title: 'Flutter Demo Home Page'),
       routes: {
         "bottom_app_bar": (context) => BottomAppBarDemo(),
+        "bottom_navigation": (context) => BottomNavigationDemo(),
       },
     );
   }
@@ -101,7 +103,14 @@ class _MyHomePageState extends State<MyHomePage> {
               onPressed: () {
                 Navigator.pushNamed(context, "bottom_app_bar");
               },
-            )
+            ),
+            RaisedButton(
+              child: Text("open bottom_navigation  "),
+              textColor: Colors.blue,
+              onPressed: () {
+                Navigator.pushNamed(context, "bottom_navigation");
+              },
+            ),
           ],
         ),
       ),
