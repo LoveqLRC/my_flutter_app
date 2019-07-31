@@ -1,11 +1,14 @@
 import 'package:flutter/material.dart';
 import 'stateful_widget.dart';
 import 'stateless_widget.dart';
+import 'using_edittext.dart';
+import 'load_local_image.dart';
+import 'load_local_json.dart';
 
 void main() {
   runApp(new MaterialApp(
-    home: new MyApp(),
-    theme: new ThemeData(primarySwatch: Colors.green),
+    home: new LoadLocalJson(),
+//    theme: new ThemeData(primarySwatch: Colors.green),
   ));
 }
 
