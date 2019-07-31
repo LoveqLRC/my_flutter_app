@@ -4,10 +4,14 @@ import 'stateless_widget.dart';
 import 'using_edittext.dart';
 import 'load_local_image.dart';
 import 'load_local_json.dart';
+import 'using_http_get.dart';
+import 'using_alter_dialog.dart';
+import 'using_stepper.dart';
 
 void main() {
   runApp(new MaterialApp(
-    home: new LoadLocalJson(),
+    title: "UsingStepper",
+    home: new UsingStepper(),
 //    theme: new ThemeData(primarySwatch: Colors.green),
   ));
 }
