@@ -7,11 +7,12 @@ import 'load_local_json.dart';
 import 'using_http_get.dart';
 import 'using_alter_dialog.dart';
 import 'using_stepper.dart';
+import 'using_tab.dart';
 
 void main() {
   runApp(new MaterialApp(
     title: "UsingStepper",
-    home: new UsingStepper(),
+    home: new UsingTab(),
 //    theme: new ThemeData(primarySwatch: Colors.green),
   ));
 }
