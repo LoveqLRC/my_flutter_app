@@ -8,11 +8,13 @@ import 'using_http_get.dart';
 import 'using_alter_dialog.dart';
 import 'using_stepper.dart';
 import 'using_tab.dart';
+import 'using_bottom_tab.dart';
+import 'using_custom_fonts.dart';
 
 void main() {
   runApp(new MaterialApp(
     title: "UsingStepper",
-    home: new UsingTab(),
+    home: new UsingCustomFonts(),
 //    theme: new ThemeData(primarySwatch: Colors.green),
   ));
 }
