@@ -8,3 +8,13 @@ TextStyle getCustomFontTextStyle() {
     fontSize: 36.0,
   );
 }
+
+LinearGradient getCustomGradient() {
+  return new LinearGradient(
+    colors: <Color>[Colors.pink, Colors.blueAccent],
+    begin: const FractionalOffset(0.0, 0.0),
+    end: const FractionalOffset(0.0, 0.6),
+    stops: [0.0, 0.6],
+    tileMode: TileMode.clamp,
+  );
+}

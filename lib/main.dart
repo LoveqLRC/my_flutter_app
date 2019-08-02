@@ -10,11 +10,13 @@ import 'using_stepper.dart';
 import 'using_tab.dart';
 import 'using_bottom_tab.dart';
 import 'using_custom_fonts.dart';
+import 'using_gradient.dart';
+import 'navigation_drawer.dart';
 
 void main() {
   runApp(new MaterialApp(
     title: "UsingStepper",
-    home: new UsingCustomFonts(),
+    home: new NavigationDrawer(),
 //    theme: new ThemeData(primarySwatch: Colors.green),
   ));
 }
