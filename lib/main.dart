@@ -14,11 +14,18 @@ import 'using_gradient.dart';
 import 'navigation_drawer.dart';
 import 'contact_page.dart';
 import 'using_snack_bar.dart';
+import 'grid_layout.dart';
 
 void main() {
+  final MyGridView myGridView = new MyGridView();
   runApp(new MaterialApp(
-    title: "UsingStepper",
-    home: new UsingSnackBar(),
+    debugShowCheckedModeBanner: false,
+    home: new Scaffold(
+      appBar: new AppBar(
+        title: new Text("Glid View Demo"),
+      ),
+      body: myGridView.build(),
+    ),
 //    theme: new ThemeData(primarySwatch: Colors.green),
   ));
 }
