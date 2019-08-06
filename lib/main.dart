@@ -18,12 +18,13 @@ import 'grid_layout.dart';
 import 'dropdownbtn.dart';
 import 'image_from_network.dart';
 import 'infinite_list.dart';
+import 'persist_key.dart';
 
 void main() {
 //  final MyGridView myGridView = new MyGridView();
 
   runApp(
-      new MaterialApp(debugShowCheckedModeBanner: false, home: new InfiniteApp()
+      new MaterialApp(debugShowCheckedModeBanner: false, home: new PersistKey()
 //    theme: new ThemeData(primarySwatch: Colors.green),
           ));
 }
