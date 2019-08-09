@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>MeetingManage.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>6B1E974F7CF91FD51935EF0797051C17257A4F4D</string>
+				<key>dateExpires</key>
+				<string>2022/3/22</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>6B1E974F7CF91FD51935EF0797051C17257A4F4D</string>
+						<key>dateExpires</key>
+						<string>2022/3/22</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>Alamofire.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>DKZN5FJ357</string>
+						<key>name</key>
+						<string>Guangdong Gloryview Technology Co., Ltd.</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>6B1E974F7CF91FD51935EF0797051C17257A4F4D</string>
+						<key>dateExpires</key>
+						<string>2022/3/22</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>CryptoSwift.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>DKZN5FJ357</string>
+						<key>name</key>
+						<string>Guangdong Gloryview Technology Co., Ltd.</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>6B1E974F7CF91FD51935EF0797051C17257A4F4D</string>
+						<key>dateExpires</key>
+						<string>2022/3/22</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>MJRefresh.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>DKZN5FJ357</string>
+						<key>name</key>
+						<string>Guangdong Gloryview Technology Co., Ltd.</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>6B1E974F7CF91FD51935EF0797051C17257A4F4D</string>
+						<key>dateExpires</key>
+						<string>2022/3/22</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>SVProgressHUD.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>DKZN5FJ357</string>
+						<key>name</key>
+						<string>Guangdong Gloryview Technology Co., Ltd.</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>6B1E974F7CF91FD51935EF0797051C17257A4F4D</string>
+						<key>dateExpires</key>
+						<string>2022/3/22</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>SnapKit.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>DKZN5FJ357</string>
+						<key>name</key>
+						<string>Guangdong Gloryview Technology Co., Ltd.</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>6B1E974F7CF91FD51935EF0797051C17257A4F4D</string>
+						<key>dateExpires</key>
+						<string>2022/3/22</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>SwiftyJSON.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>DKZN5FJ357</string>
+						<key>name</key>
+						<string>Guangdong Gloryview Technology Co., Ltd.</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>6B1E974F7CF91FD51935EF0797051C17257A4F4D</string>
+						<key>dateExpires</key>
+						<string>2022/3/22</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>YYCache.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>DKZN5FJ357</string>
+						<key>name</key>
+						<string>Guangdong Gloryview Technology Co., Ltd.</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>6B1E974F7CF91FD51935EF0797051C17257A4F4D</string>
+						<key>dateExpires</key>
+						<string>2022/3/22</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>YYImage.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>DKZN5FJ357</string>
+						<key>name</key>
+						<string>Guangdong Gloryview Technology Co., Ltd.</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>6B1E974F7CF91FD51935EF0797051C17257A4F4D</string>
+						<key>dateExpires</key>
+						<string>2022/3/22</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>YYWebImage.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>DKZN5FJ357</string>
+						<key>name</key>
+						<string>Guangdong Gloryview Technology Co., Ltd.</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>DKZN5FJ357.com.gloryview.ereader</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>DKZN5FJ357</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>DKZN5FJ357.com.gloryview.ereader</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>MeetingManage.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>ec3bd750-816d-4181-ad42-e7cb2fff8749</string>
+				<key>name</key>
+				<string>iOS Team Inhouse Provisioning Profile: com.gloryview.ereader</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>DKZN5FJ357</string>
+				<key>name</key>
+				<string>Guangdong Gloryview Technology Co., Ltd.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
